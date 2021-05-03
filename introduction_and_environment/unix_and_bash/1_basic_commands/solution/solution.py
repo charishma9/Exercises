@@ -2,9 +2,9 @@
 ONE = 'man'
 
 # Assign the correct strings below
-TWO = 
-THREE = 
-FOUR = 
-FIVE = 
-SIX = 
-SEVEN = 
+TWO = 'ls'
+THREE = 'mkdir cherry'
+FOUR = 'cat new'
+FIVE = 'cp blank.txt new.txt||cp -r cherry new_cherry '
+SIX = 'mv old.txt new.txt'
+SEVEN = 'rm file.txt || rm -r cherry'

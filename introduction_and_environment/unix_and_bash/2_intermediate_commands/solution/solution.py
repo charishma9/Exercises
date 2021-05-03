@@ -1,7 +1,7 @@
 
 # Assign the correct strings below
-ONE = 
-TWO = 
-THREE = 
+ONE = 'mkdir testdir | cd testdir'
+TWO = 'cat textfile.txt | grep -c 'and' textfile.txt'
+THREE = 'ls | '
 FOUR = 
 FIVE = 
