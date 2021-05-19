@@ -1,13 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\introduction_to_python\\classes\\1_a_employee_class\\solution",
+    "\\introduction_to_python",
+    "\\introduction_to_python\\classes",
     "\\introduction_to_python\\classes\\1_b_employee_raise",
     "\\introduction_to_python\\classes\\1_b_employee_raise\\solution",
+    "\\introduction_to_python\\classes\\1_c_employee_sort\\solution",
+    "\\introduction_to_python\\classes\\2_a_person_child",
+    "\\introduction_to_python\\classes\\2_a_person_child\\solution",
+    "\\introduction_to_python\\classes\\2_b_person_get_sibilings",
     "\\introduction_to_python\\mvc_architecture",
-    "\\introduction_to_python\\mvc_architecture\\1_addition",
-    "\\software_theory\\testing"
+    "\\introduction_to_python\\mvc_architecture\\1_addition"
   ],
-  "SelectedNode": "\\introduction_to_python",
+  "SelectedNode": "\\introduction_to_python\\classes\\2_a_person_child\\solution\\solution.py",
   "PreviewInSolutionExplorer": false
 }

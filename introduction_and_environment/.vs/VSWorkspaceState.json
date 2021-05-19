@@ -1,16 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\data_types_and_control_flow",
-    "\\data_types_and_control_flow\\1_string_length\\Solution",
-    "\\data_types_and_control_flow\\1_string_slice\\Solution",
-    "\\data_types_and_control_flow\\2_add_item\\Solution",
-    "\\data_types_and_control_flow\\2_append\\Solution",
-    "\\data_types_and_control_flow\\2_farm_area\\Solution",
-    "\\data_types_and_control_flow\\2_sum_list\\Solution",
-    "\\data_types_and_control_flow\\2_vowel_consonant\\Solution",
     "\\data_types_and_control_flow\\3_grade"
   ],
-  "SelectedNode": "\\data_types_and_control_flow\\3_grade\\README.md",
   "PreviewInSolutionExplorer": false
 }
